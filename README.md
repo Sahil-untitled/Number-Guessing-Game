@@ -1,6 +1,4 @@
 # Number-Guessing-Game
-Here's the `README.md` well structured to describe your number guessing game.
-
 ---
 
 ````markdown
